@@ -1,0 +1,7 @@
+name: PackFetch
+version: '1.0'
+main: net.abhinav.packfetch.PackFetch
+api-version: '1.21'
+description: A plugin to download and keep server datapacks updated automatically in-game.
+load: STARTUP
+authors: [ Abhinav VS ]
